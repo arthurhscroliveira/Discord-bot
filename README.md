@@ -1,1 +1,1 @@
-# Discord-bot
+# Discord-bot (Não iniciado)
